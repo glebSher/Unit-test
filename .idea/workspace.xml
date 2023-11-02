@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73bf56f7-0ab6-47ea-a7a7-11b0395d1e9a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/hw3/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/hw4/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/hw4/BookRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/hw4/BookService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/hw4/InMemoryBookRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/hw4/Task1.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/hw4/BookServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/hw3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/hw3/Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/hw3/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/hw3/MainTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="73bf56f7-0ab6-47ea-a7a7-11b0395d1e9a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

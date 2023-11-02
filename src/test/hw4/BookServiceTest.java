@@ -1,9 +1,25 @@
 package hw4;
 
+import main.hw4.Book;
+import main.hw4.BookRepository;
+import main.hw4.BookService;
+import org.junit.jupiter.api.Test;
+import org.junit.jupiter.api.extension.ExtendWith;
+import org.mockito.InjectMocks;
+import org.mockito.Mock;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.mockito.Mockito.verify;
+import static org.mockito.Mockito.when;
+
 // Подключаем расширение Mockito к тестируемому классу
 @ExtendWith(MockitoExtension.class)
 public class BookServiceTest {
     // Создаем заглушку типа Mock для интерфейса BookRepository
+
     @Mock
     private BookRepository mockBockService;
 

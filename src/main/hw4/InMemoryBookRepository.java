@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public class InMemoryBookRepository {
+public class InMemoryBookRepository implements BookRepository{
     private final Map<String, Book> books;
 
     public InMemoryBookRepository() {
